@@ -187,7 +187,7 @@ namespace TsExp
                     {
                         check = "";
                     }
-                    else if((lh.ToLower() == "holiday" || lh.ToLower() == "leave"))
+                    else if((lh.ToLower() == "holiday" || lh.ToLower() == "Leave"))
                     {
                         check = "";
                     }
